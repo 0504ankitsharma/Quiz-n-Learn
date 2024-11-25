@@ -16,9 +16,9 @@ def load_custom_css():
         <style>
         /* Background and font styling */
         body {
-            background-color: #f4f8fb;
+            background-color: #000;
             font-family: 'Arial', sans-serif;
-            color: #333;
+            color: #fff;
         }
 
         /* Title styling */
